@@ -43,7 +43,7 @@ If you're here to peek — welcome! Feel free to explore.
 
 ## 💬 Let’s connect?
 
-Find me on [LinkedIn](https://www.linkedin.com/in/elifbagci) or [GitHub](https://github.com/elifbagci).  
+Find me on [LinkedIn](https://www.linkedin.com/in/elifozlembagci) or [GitHub](https://github.com/elifbagci).  
 Always open to chatting about coding, creativity, or chaotic side projects.
 
 ---

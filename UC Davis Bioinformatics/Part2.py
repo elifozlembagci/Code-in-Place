@@ -42,7 +42,6 @@ print("Value of treatment: ", treatment)
 
 print("The data type of the variable 'control' is:", type(control))
 print("The data type of the variable 'hw' is:", type(hw))
-print("The data type of the variable 'gene_count' is:", type(gene_count))
 print("The data type of the variable 'gene_id' is:", type(gene_id))
 
 
